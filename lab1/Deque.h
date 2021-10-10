@@ -21,11 +21,13 @@ class deque {
 private:
 
   /**
-  * @brief Node class
-  * This class represents one element of deque that stores some data.
+  * @brief Node class represents one element of deque that stores some data.
   */
   class node {
-  public:
+
+    valueType data;/** <Stored data*/
+    node* nextNode;/** <Pointer to next element*/
+    node* prevNode;/** <Pointer to previous element*/
 
     /**
     * @brief Default constructor for class node
@@ -61,16 +63,11 @@ private:
 
     };
 
-    //Node elements
-    valueType data;///< Stored data
-    node* nextNode;///< Pointer to next element
-    node* prevNode;///< Pointer to previous element
-
   };
 
-  node* head;///< Pointer to dummy
-  node* end;///< Pointer to last element in deque
-  int numOfElem;///< Number of elements in deque
+  node* head;/** <Pointer to dummy*/
+  node* end;/** >Pointer to last element in deque*/
+  int numOfElem;/** <Number of elements in deque*/
 
 public:
 
@@ -442,6 +439,7 @@ public:
 
     if (tmp == nullptr)
       return *this;
+
     tmp = tmp->nextNode;
     while (tmp != nullptr) {
 
@@ -475,9 +473,8 @@ public:
 
     //if other deque is our deque =>
     //won't do anything because otherwise we will delete our deque
-    if (&other == this) {
-        return *this;
-    }
+    if (&other == this)
+      return *this;
 
     node* tmp = other.head;
 
@@ -489,8 +486,6 @@ public:
     other.head = nullptr;
     other.end = nullptr;
     other.numOfElem = 0;
-
-    return *this;
 
     return *this;
 
