@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/Power/CMakeFiles/Power.dir/embed.manifest"

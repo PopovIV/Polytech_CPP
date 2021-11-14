@@ -1,0 +1,36 @@
+# ninja log v5
+1	1312	658613228	CMakeFiles/calculator.dir/functionLoader.cpp.obj	f202608f164be5c6
+5	1219	658606712	CMakeFiles/calculator.dir/eval.cpp.obj	f16660a7a3a8b249
+21	1076	658613122	CMakeFiles/calculator.dir/calculator.cpp.obj	9e1b552ae7ad113c
+0	577	658611340	CMakeFiles/calculator.dir/function.cpp.obj	186c794a29be9c92
+11	1235	658606712	CMakeFiles/calculator.dir/parser.cpp.obj	7543a73d1a41d108
+0	164	658613420	build.ninja	e09eab8d9bdf4103
+0	1149	658613533	CMakeFiles/calculator.dir/main.cpp.obj	f2a876682ec96843
+9	1223	658606712	CMakeFiles/calculator.dir/token.cpp.obj	876f613ffca80745
+1152	1594	658613533	calculator.exe	651983f7db885b00
+0	751	658611274	DLLs CODE/Power/CMakeFiles/Power.dir/power.cpp.obj	202d65920f1f9c9
+752	1560	658611274	../../../DLLs/Power.dll	d1d73f3a2086451d
+0	562	658611274	DLLs CODE/Power/Power.lib	9da7cd849e05ecd5
+2	747	658611274	DLLs CODE/Power/CMakeFiles/Power.dir/__/__/function.cpp.obj	6736778c76a92544
+0	562	658611274	DLLs/Power.dll	9da7cd849e05ecd5
+1	544	658612808	CMakeFiles/calculator.dir/DLLs_CODE/MathLibrary/MathLibrary.cpp.obj	13f61d4784d248d
+1	779	658612975	DLLs CODE/MathLibrary/CMakeFiles/MathLibrary.dir/__/__/function.cpp.obj	5edfbb6e6db583e1
+2	782	658612975	DLLs CODE/MathLibrary/CMakeFiles/MathLibrary.dir/MathLibrary.cpp.obj	c0e6b561399ef8dd
+783	2437	658612977	DLLs/MathLibrary.dll	8a538a846e2a211b
+783	2437	658612977	DLLs CODE/MathLibrary/MathLibrary.lib	8a538a846e2a211b
+0	1162	658613569	CMakeFiles/calculator.dir/main.cpp.obj	f2a876682ec96843
+1165	1532	658613570	calculator.exe	651983f7db885b00
+0	135	658613695	build.ninja	e09eab8d9bdf4103
+1	1071	658613839	build.ninja	e09eab8d9bdf4103
+0	1219	658613989	CMakeFiles/calculator.dir/main.cpp.obj	f2a876682ec96843
+1223	1599	658613989	calculator.exe	651983f7db885b00
+0	398	658614268	CMakeFiles/calculator.dir/main.cpp.obj	f2a876682ec96843
+399	810	658614269	calculator.exe	651983f7db885b00
+1	1148	658614303	CMakeFiles/calculator.dir/main.cpp.obj	f2a876682ec96843
+1151	1575	658614304	calculator.exe	651983f7db885b00
+0	143	658614385	build.ninja	e09eab8d9bdf4103
+0	472	658614385	calculator.exe	c4f88f88b4ec0377
+0	1175	658614433	CMakeFiles/calculator.dir/main.cpp.obj	f2a876682ec96843
+1178	1628	658614433	calculator.exe	c4f88f88b4ec0377
+0	1215	658614469	CMakeFiles/calculator.dir/main.cpp.obj	f2a876682ec96843
+1218	1559	658614469	calculator.exe	c4f88f88b4ec0377

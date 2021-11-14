@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "A:/lp/3.1/c++/calculator/out/build/x64-Debug/CMakeFiles/calculator.dir/embed.manifest"

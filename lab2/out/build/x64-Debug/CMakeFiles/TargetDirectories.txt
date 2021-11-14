@@ -1,0 +1,11 @@
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/CMakeFiles/calculator.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/CMakeFiles/edit_cache.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/CMakeFiles/rebuild_cache.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/Power/CMakeFiles/Power.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/Power/CMakeFiles/edit_cache.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/Power/CMakeFiles/rebuild_cache.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/MathLibrary/CMakeFiles/MathLibrary.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/MathLibrary/CMakeFiles/edit_cache.dir
+A:/lp/3.1/c++/calculator/out/build/x64-Debug/DLLs CODE/MathLibrary/CMakeFiles/rebuild_cache.dir
